@@ -1,2 +1,6 @@
-def swap_case(s):
-    return s.swapcase()
+string = "StRiNgSwAp"
+print(string.swapcase())
+
+string1 = "HACKtoberFEST"
+print(string1.swapcase())
+   
